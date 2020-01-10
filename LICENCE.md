@@ -1,4 +1,8 @@
-Copyright (c) 2019 Samuel Lim
+Copyright (c) 2019 Samuel Lim, contributors and members of AeroRust
+
+See
+> https://github.com/amadeusine/rosal/contributors
+> https://github.com/orgs/AeroRust/people
 
 This software is provided 'as-is', without any express or implied
 warranty. In no event will the authors be held liable for any damages
