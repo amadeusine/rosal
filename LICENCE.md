@@ -1,4 +1,4 @@
-Copyright (c) 2019 Samuel Lim, contributors and members of AeroRust
+Copyright (c) 2019-2020 Samuel Lim, contributors and members of AeroRust
 
 See
 > https://github.com/amadeusine/rosal/contributors
