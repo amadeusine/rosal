@@ -1,8 +1,38 @@
 [package]
-name = "Rosal"
+name = "rosal"
 version = "0.1.0"
 authors = ["Samuel Lim <39858145+amadeusine@users.noreply.github.com>"]
 edition = "2018"
+description = "..."
+# documentation = "..."
+# homepage = "..."
+repository = "https://github.com/amadeusine/rosal.git"
+
+readme = "README.md"
+
+keywords = ["operating system", "abstraction", "OS"]
+
+# This is a list of up to five categories where this crate would fit.
+# Categories are a fixed list available at crates.io/category_slugs, and
+# they must match exactly.
+
+categories = ["os", "rust-patterns"]
+
+# This is an SPDX 2.1 license expression for this package. Currently
+# crates.io will validate the license provided against a whitelist of
+# known license and exception identifiers from the SPDX license list
+# 3.6. Parentheses are not currently supported.
+#
+# Multiple licenses can be separated with a `/`, although that usage
+# is deprecated. Instead, use a license expression with AND and OR
+# operators to get more explicit semantics.
+license = "zlib"
+
+# If a package is using a nonstandard license, then this key may be specified in
+# lieu of the above key and must point to a file relative to this manifest
+# (similar to the readme key).
+license-file = "LICENCE.md"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
